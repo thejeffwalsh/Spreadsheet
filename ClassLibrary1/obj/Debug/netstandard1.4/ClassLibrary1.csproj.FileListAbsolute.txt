@@ -1,0 +1,8 @@
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.deps.json
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.dll
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\bin\Debug\netstandard1.4\ClassLibrary1.pdb
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.csproj.CoreCompileInputs.cache
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.AssemblyInfo.cs
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.dll
+c:\users\sysadmin\source\repos\Walsh_HW6\ClassLibrary1\obj\Debug\netstandard1.4\ClassLibrary1.pdb
